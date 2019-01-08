@@ -4,7 +4,7 @@ Active Selection of Elements with Variational Bayes for Nonnegative Matrix Facto
 ## Dense Dataset
 || KL Divergence | RMSE |
 |-----------|:-----------:|-----------:|  
-| Random | ![](gifs/yogun/KL%20Divergence/Random.gif) | ![](gifs/yogun/Root%20Mean%20Square%20Error/Random.gif) |
+| Random | ![](gifs/yogun/KL%20Divergence/Random.gif) | ![](gifs/yogun/Root%20Mean%20Square%20Error/Random.gif) |    
 | Random Popularity | ![](gifs/yogun/KL%20Divergence/Random%20Popularity.gif) | ![](gifs/yogun/Root%20Mean%20Square%20Error/Random%20Popularity.gif) |  
 | Max Row-Column | ![](gifs/yogun/KL%20Divergence/Max%20Row-Col.gif) | ![](gifs/yogun/Root%20Mean%20Square%20Error/Max%20Row-Col.gif) |  
 | Max Variance | ![](gifs/yogun/KL%20Divergence/Max%20Var.gif) | ![](gifs/yogun/Root%20Mean%20Square%20Error/Max%20Var.gif) |  

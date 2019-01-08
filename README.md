@@ -1,4 +1,4 @@
 # 547-FINAL-PROJECT
 Active Selection of Elements with Variational Bayes for Nonnegative Matrix Factorization
 
-![](gifs/seyrek/KL Divergence/Max Row-Col.gif)
+![](https://github.com/aycignl/547-FINAL-PROJECT/gifs/seyrek/KL%20Divergence/Max%20Row-Col.gif)

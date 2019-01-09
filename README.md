@@ -1,6 +1,13 @@
 # 547-FINAL-PROJECT
 Active Selection of Elements with Variational Bayes for Nonnegative Matrix Factorization
 
+Contributors:
+* [Gönül Aycı](https://github.com/aycignl)
+* [Abdullatif Köksal](https://github.com/akoksal)
+* [Melih Mutlu](https://github.com/melihmutlu)
+* [Burak Suyunu](https://github.com/suyunu)
+* [Prof. Ali Taylan Cemgil](https://github.com/atcemgil)
+
 ## Dense Dataset
 || KL Divergence | RMSE |
 |-----------|:-----------:|-----------:|  

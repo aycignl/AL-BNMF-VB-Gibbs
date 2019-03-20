@@ -1,5 +1,4 @@
-# 547-FINAL-PROJECT
-Active Selection of Elements with Variational Bayes for Nonnegative Matrix Factorization
+# Active Learning with Bayesian Nonnegative MatrixFactorization for Recommender Systems
 
 Contributors:
 * [Gönül Aycı](https://github.com/aycignl)
